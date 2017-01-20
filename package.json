@@ -1,0 +1,26 @@
+{
+  "name": "nodeweb-test",
+  "version": "0.1.0",
+  "description": "Test nodejs website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zorgatone/nodeweb-test.git"
+  },
+  "author": "Zorgatone <zorgatone@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Zorgatone/nodeweb-test/issues"
+  },
+  "homepage": "https://github.com/Zorgatone/nodeweb-test#readme",
+  "devDependencies": {
+    "eslint": "^3.13.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
